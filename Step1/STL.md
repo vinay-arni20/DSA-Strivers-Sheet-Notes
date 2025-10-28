@@ -169,8 +169,7 @@ for (auto rit = v.rbegin(); rit != v.rend(); rit++)
 ```
 
 ---
-
-            ### **6. Insert & Erase**
+### **6. Insert & Erase**
 
 ```cpp
 vector<int> v = {1, 2, 4};
